@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AssignmentPrabhjot</string>
+    <string name="button1">Lower</string>
+    <string name="button2">Upper</string>
+    <string name="imageview1">image</string>
+    <string name="imageview2">image2</string>
+    <string name="Blank_Result"></string>
+    <string name="user_dice_string">User\'s Dice : </string>
+    <string name="comp_dice_string">Computer\'s Dice : </string>
+</resources>
+
+
+
